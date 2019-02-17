@@ -137,6 +137,7 @@ bool StudentWorld::blockingActorExists(const Actor* actor) {
 				if (blockerRight >= actorLeft - 4 &&
 					( inHeightRange(actorBottom, actorTop, blockerBottom, blockerTop) ))
 					return true;
+				// Hello
 
 			case actor->right:
 				// If the blocker's left side is past the right side of the
