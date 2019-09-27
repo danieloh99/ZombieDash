@@ -1,0 +1,16 @@
+1. A high-level description of each of your public member functions in each of
+your classes, and why you chose to define each member function in its host
+class; also explain why (or why not) you decided to make each function
+virtual or pure virtual. For example, “I chose to define a pure virtual version
+of the sneeze() function in my base Actor class because all actors in Zombie
+Dash are able to sneeze, and each type of actor sneezes in a different way.”
+
+2. A list of all functionality that you failed to finish as well as known bugs in
+your classes, e.g. “I didn’t implement the Flame class.” or “My smart zombie
+doesn’t work correctly yet so I treat it like a dumb zombie right now.”
+
+3. A list of other design decisions and assumptions you made; e.g., “It was not
+specified what to do in situation X, so this is what I decided to do.”
+
+4. A description of how you tested each of your classes (1-2 paragraphs per
+class).
